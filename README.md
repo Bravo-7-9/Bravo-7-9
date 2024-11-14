@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bravo-7-9
-- 👀 I’m interested in ... gamig, music, and robots
-- 🌱 I’m currently learning ... how to use github
+- 👀 I’m interested in ... gaming, music, and robots
+- 🌱 I’m currently learning ... Minecraft modding
 - 💞️ I’m looking to collaborate on ... not much right now
 - 📫 How to reach me ... bravo_7_9 on discord
 
